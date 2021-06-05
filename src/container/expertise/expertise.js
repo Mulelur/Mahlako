@@ -8,8 +8,8 @@ export default function ExpertiseContainer() {
     <Expertise>
       <Expertise.Content>
         <Expertise.Text>
-          I charmaine Shabangu, I am a student at VUT who is so busy studying a
-          field of engineering which is machenical engineering.
+          I Mahlako Clementine Matsokotsa, I am a student at VUT who is so busy
+          studying a field of engineering which is Chemical engineering.
         </Expertise.Text>
         <Expertise.Text>
           On the other side I have my own personal project which I am doing
