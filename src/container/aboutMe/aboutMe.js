@@ -18,7 +18,7 @@ export default function AboutMeContainer() {
             Hello! My Name is Mahlako Clementine Matsokotsa.
           </AboutMe.Heading4>
           <AboutMe.Text>
-            I am doing machenical engineering which is the course i desire the
+            I am doing chemical engineering which is the course i desire the
             most because I am passionate about my work and Because I love what I
             do.
           </AboutMe.Text>

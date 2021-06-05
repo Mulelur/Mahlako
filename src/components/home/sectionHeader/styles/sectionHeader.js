@@ -1,6 +1,6 @@
 import styled from "styled-components";
 import bg from "../../../../assets/mahlako-2.jpeg";
-import { textColor1 } from "../../../../colors/colors";
+import { textColor, textColor1 } from "../../../../colors/colors";
 
 export const Section = styled.section``;
 
@@ -12,7 +12,7 @@ export const Container = styled.div`
   background-image: url(${bg});
   background-size: cover;
   height: 60rem;
-  color: #ffff;
+  color: ${textColor};
 `;
 
 export const Heading4 = styled.h4`
@@ -31,9 +31,9 @@ export const Download = styled.a`
   background-color: transparent;
   text-align: center;
   border-radius: 5rem;
-  border: 3px solid #ffff;
+  border: 3px solid ${textColor};
   padding-top: 1.4rem;
-  color: #ffff;
+  color: ${textColor};
   font-size: 1.6rem;
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
@@ -43,7 +43,7 @@ export const Download = styled.a`
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
     border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
   &: hover {
-    background-color: #ffff;
+    background-color: ${textColor};
     color: black;
   }
 `;

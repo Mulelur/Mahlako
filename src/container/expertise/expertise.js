@@ -13,7 +13,7 @@ export default function ExpertiseContainer() {
         </Expertise.Text>
         <Expertise.Text>
           On the other side I have my own personal project which I am doing
-          related to the innovation of an machanical generator.
+          related to the innovation of an sanitizer.
         </Expertise.Text>
         <Expertise.Text>
           In my free times I get busy with programming web application.
@@ -23,7 +23,7 @@ export default function ExpertiseContainer() {
         <Expertise.Group>
           <Expertise.Title>High School Subjects</Expertise.Title>
           <Expertise.List>
-            {subjectData2.map((item) => {
+            {subjectData1.map((item) => {
               return <Expertise.ListItem>{item.sbj}</Expertise.ListItem>;
             })}
           </Expertise.List>
@@ -31,7 +31,7 @@ export default function ExpertiseContainer() {
         <Expertise.Group>
           <Expertise.Title>Modules</Expertise.Title>
           <Expertise.List>
-            {subjectData1.map((item) => {
+            {subjectData2.map((item) => {
               return <Expertise.ListItem>{item.sbj}</Expertise.ListItem>;
             })}
           </Expertise.List>

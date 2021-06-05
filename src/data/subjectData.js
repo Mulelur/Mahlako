@@ -1,10 +1,10 @@
 export const subjectData1 = [
-  { sbj: "Afrikaans (First Addisional Language)" },
-  { sbj: "English (Home Language)" },
+  { sbj: "Sepedi (Home Language)" },
+  { sbj: "English (First Additional Language)" },
   { sbj: "Mathematics " },
   { sbj: "Physical Science " },
   { sbj: "Life Science" },
-  { sbj: "Computer Application Technology " },
+  { sbj: "Accounting" },
   { sbj: "Life Orientation" },
 ];
 
