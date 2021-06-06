@@ -6,11 +6,12 @@ export default function SectionHeaderContainer() {
   return (
     <SectionHeader>
       <SectionHeader.Container>
-        <SectionHeader.Heading4>Welcome</SectionHeader.Heading4>
+        <SectionHeader.Heading4> Greeting</SectionHeader.Heading4>
         <SectionHeader.Heading1>I'M Future engineer</SectionHeader.Heading1>
         <SectionHeader.Text>
-          Productivity is never an accident. It’s always the result of a
-          commitment to excellence, intelligent planning, and focused effort.
+          I'm Mahlako,a 19 year old from Limpopo. Currently residing at vaal due
+          to studies. I'm studying Chemical Engineering at VUT. I'm passionate
+          about helping other hence I chose chemical engineering to study.
         </SectionHeader.Text>
         <SectionHeader.Download href={cv} target="_blank">
           DownLoad CV
