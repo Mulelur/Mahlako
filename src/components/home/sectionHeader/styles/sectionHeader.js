@@ -7,7 +7,7 @@ export const Section = styled.section``;
 export const Container = styled.div`
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
   flex-direction: column;
   background-image: url(${bg});
   background-size: cover;
