@@ -7,7 +7,6 @@ export default function SectionHeaderContainer() {
     <SectionHeader>
       <SectionHeader.Container>
         <SectionHeader.Heading4> Greeting</SectionHeader.Heading4>
-        <SectionHeader.Heading1>I'M Future engineer</SectionHeader.Heading1>
         <SectionHeader.Text>
           I'm Mahlako,a 19 year old from Limpopo. Currently residing at vaal due
           to studies. I'm studying Chemical Engineering at VUT. I'm passionate
